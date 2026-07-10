@@ -526,7 +526,7 @@
       i = "USDG",
       a = BigInt("1000000"),
       n = "1 USDG",
-      l = "0xbb1d001233bd2916b3691127d0f45f766f3b6b80",
+      l = "0xComingSoon",
       o = BigInt("1000000"),
       c = "1M tokens",
       d = "0xd650776b5E1AEbD2bFbB5fC852492ff27be48d7F",

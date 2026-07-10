@@ -5705,7 +5705,7 @@ For more information, see https://radix-ui.com/primitives/docs/components/${t.do
                         className: "mt-8 flex flex-col gap-3 sm:flex-row",
                         children: [
                           (0, T.jsxs)(B.default, {
-                            href: "https://x.com/Naven_Network",
+                            href: "https://x.com/NavenNetworkxyz",
                             target: "_blank",
                             className:
                               "inline-flex h-11 items-center justify-center gap-2 rounded-full border border-white/10 bg-white/[0.035] px-5 text-sm font-semibold text-white transition hover:bg-white/[0.06]",

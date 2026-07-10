@@ -42414,7 +42414,7 @@ No matching component was found for:
         "Facilitator verifies settlement",
         "Strategy receives execution context",
       ],
-      du = "0xbb1d001233bd2916b3691127d0f45f766f3b6b80",
+      du = "0xComingSoon",
       dc = `https://fun.noxa.fi/robinhood/token/${du}`;
     function dh({ type: e }) {
       return "rails" === e
@@ -42593,7 +42593,7 @@ No matching component was found for:
                         size: "lg",
                         className: "h-12 px-7 font-semibold",
                         children: (0, R.jsxs)(dr.default, {
-                          href: "https://app.uniswap.org/swap?chain=robinhood&outputCurrency=0xbb1d001233bd2916b3691127d0f45f766f3b6b80",
+                          href: "https://app.uniswap.org/swap?chain=robinhood&outputCurrency=0xComingSoon",
                           target: "_blank",
                           rel: "noopener noreferrer",
                           children: [
